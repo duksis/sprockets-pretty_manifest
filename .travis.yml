@@ -6,4 +6,4 @@ deploy:
   gem: sprockets-pretty_manifest
   on:
     tags: true
-    repo: duksis/sprockets-pretty_manifest
+    all_branches: true

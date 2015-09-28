@@ -30,5 +30,5 @@ nicely formated and readable.
 5. Create a new Pull Request
 
 
-[1]: https://secure.travis-ci.org/duksis/sprockets-pretty_manifest.png "Build status badge"
-[2]: https://secure.travis-ci.org/duksis/sprockets-pretty_manifest "Build status"
+[1]: https://travis-ci.org/duksis/sprockets-pretty_manifest.svg?branch=master "Build status badge"
+[2]: https://travis-ci.org/duksis/sprockets-pretty_manifest "Build status"
