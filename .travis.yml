@@ -1,0 +1,9 @@
+language: ruby
+deploy:
+  provider: rubygems
+  api_key:
+    secure: ${RUBYGEMS_API_KEY}
+  gem: sprockets-pretty_manifest
+  on:
+    tags: true
+    repo: duksis/sprockets-pretty_manifest

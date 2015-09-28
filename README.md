@@ -1,4 +1,4 @@
-# Sprockets::PrettyManifest
+# Sprockets::PrettyManifest [![build status][1]][2]
 
 In case you track your manifests file in source control this will make your diffs readable.
 
@@ -28,3 +28,7 @@ nicely formated and readable.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+
+[1]: https://secure.travis-ci.org/duksis/sprockets-pretty_manifest.png "Build status badge"
+[2]: https://secure.travis-ci.org/duksis/sprockets-pretty_manifest "Build status"
